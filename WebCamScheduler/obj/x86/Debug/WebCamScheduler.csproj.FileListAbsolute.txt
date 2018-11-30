@@ -1,0 +1,9 @@
+C:\Users\函諺\Downloads\Source\WebCamScheduler\obj\x86\Debug\WebCamScheduler.csprojResolveAssemblyReference.cache
+C:\Users\函諺\Downloads\Source\WebCamScheduler\obj\x86\Debug\WebCamScheduler.frmMain.resources
+C:\Users\函諺\Downloads\Source\WebCamScheduler\obj\x86\Debug\WebCamScheduler.csproj.GenerateResource.Cache
+C:\Users\函諺\Downloads\Source\WebCamScheduler\obj\x86\Debug\WebCamScheduler.Properties.Resources.resources
+C:\Users\函諺\Downloads\Source\WebCamScheduler\bin\Debug\WebCamScheduler.exe.config
+C:\Users\函諺\Downloads\Source\WebCamScheduler\bin\Debug\WebCamScheduler.exe
+C:\Users\函諺\Downloads\Source\WebCamScheduler\bin\Debug\WebCamScheduler.pdb
+C:\Users\函諺\Downloads\Source\WebCamScheduler\obj\x86\Debug\WebCamScheduler.exe
+C:\Users\函諺\Downloads\Source\WebCamScheduler\obj\x86\Debug\WebCamScheduler.pdb
